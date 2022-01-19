@@ -18,3 +18,7 @@ Nesse projeto, pude ver melhor algumas propriedades e métodos da linguagem JS:
 
 ---> eval()
 
+
+![calculadora](https://user-images.githubusercontent.com/74380091/150058943-b6810199-93d8-4b79-81cc-ac4ee86a72ae.png)
+
+
